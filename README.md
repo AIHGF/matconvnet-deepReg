@@ -1,6 +1,6 @@
 # Robust Optimization for Deep Regression
 
-Vasileios Belagiannis, Christian Rupprecht, Gustavo Carneiro, and Nassir Navab, International Conference on Computer Vision (ICCV), Santiago, Chile, December 2015. [Arxiv](http://arxiv.org/abs/1505.06606)
+Vasileios Belagiannis, Christian Rupprecht, Gustavo Carneiro, and Nassir Navab, International Conference on Computer Vision (ICCV), Santiago, Chile, December 2015. [Arxiv](http://arxiv.org/abs/1505.06606).
 
 Citation:
 
