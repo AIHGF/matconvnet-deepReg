@@ -63,7 +63,7 @@ net = [];
 %parse settings
 [opts, trainParams] = vl_argparse(opts, varargin); %main settings
 [opts.train, boptsParams]= vl_argparse(opts.train, trainParams); %train settings
-net=boptsParams{2}; %network
+net=boptsParams{1}.net; %network
 clear trainParams boptsParams;
 
 useGpu = numel(opts.train.gpus) > 0 ;

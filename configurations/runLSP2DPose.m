@@ -22,7 +22,7 @@ opts.useBnorm = false ;
 opts.prefetch = false ;
 
 %GPU (leave it empty for training on CPU)
-opts.gpus = [2];
+opts.gpus = [1];
 
 opts.initNet=''; %pre-trained network
 opts.outNode=28; %predicted-values

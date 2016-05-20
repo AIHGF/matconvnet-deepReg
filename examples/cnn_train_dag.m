@@ -207,10 +207,6 @@ for t=1:opts.batchSize:numel(subset)
     %scale box for error computation
     net.scbox= opts.scbox;
     
-    %structured loss parameters
-    net.bodyPairs=opts.bodyPairs;
-    net.trf=opts.trf;
-
     inputs = state.getBatch(state.imdb, batch) ;
 
     if opts.prefetch
