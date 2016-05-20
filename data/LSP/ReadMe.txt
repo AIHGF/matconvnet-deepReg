@@ -1,0 +1,1 @@
+Place here the training and validations files (LSP_imdbsT1aug30.mat, LSP_imdbsV1aug30.mat).
