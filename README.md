@@ -18,7 +18,7 @@ The robust loss is integrated in [MatConvNet](http://www.vlfeat.org/matconvnet).
 Visit our [Project Page](http://campar.in.tum.de/twiki/pub/Chair/DeepReg/deepreg.html) for more information.
 
 Updates: 
-
+- Added scrpit (*generateLSPdata()*) to download and generate the LSP dataset
 - Ingeration to MatConvNet-beta20.
 - Training example instructions [here](http://campar.in.tum.de/twiki/pub/Chair/DeepReg/deepreg.html).
 - Main files: [vl_nntukeyloss](matlab/vl_nntukeyloss.m), [RegLoss](matlab/+dagnn/RegLoss.m).
